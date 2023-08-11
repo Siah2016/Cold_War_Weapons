@@ -1,0 +1,65 @@
+,Name,Category,Type,Unlocked Level,Firepower %,Speed %,Accuracy %,Ammo %
+0,XM4,Assault Rifles,Primary,Default,36,40,46,30
+1,AK-47,Assault Rifles,Primary,Level 7,50,35,30,33
+2, Krig 6,Assault Rifles,Primary,Level 16,46,40,50,43
+3,QBZ-83,Assault Rifles,Primary,Level 31,42,50,40,35
+4,FFAR 1,Assault Rifles,Primary,Level 40,38,43,35,40
+5,Groza,Assault Rifles,Primary,Challenge,45,44,42,38
+6,FARA 83,Assault Rifles,Primary,Challenge,51,32,37,33
+7,C58,Assault Rifles,Primary,Battle Pass Tier 31,43,33,45,28
+8,EM2,Assault Rifles,Primary,Battle Pass,45,35,40,20
+9,Grav,Assault Rifles,Primary,Battle Pass,47,40,38,35
+10,Vargo 52,Assault Rifles,Primary,Challenge,50,38,39,44
+11,MP5,Submachine Guns,Primary,Default,33,38,43,30
+12,Milano 821,Submachine Guns,Primary,Level 13,43,50,45,38
+13,AK-74u,Submachine Guns,Primary,Level 19,44,35,40,36
+14,KSP 45,Submachine Guns,Primary,Level 37,47,40,44,37
+15,Bullfrog,Submachine Guns,Primary,Level 43,34,47,42,49
+16,Mac-10,Submachine Guns,Primary,Challenge,39,46,34,45
+17,LC10,Submachine Guns,Primary,Challenge,36,42,50,46
+18,PPSh-41,Submachine Guns,Primary,Battle Pass Tier 15,41,45,38,43
+19,OTs 9,Submachine Guns,Primary,Challenge,41,43,46,25
+20,TEC-9,Submachine Guns,Primary,Battle Pass,35,46,46,28
+21,LAPA,Submachine Guns,Primary,Challenge,39,50,49,33
+22,UGR,Submachine Guns,Primary,Challenge,40,49,50,30
+23,Type 63,Tactical Rifles,Primary,Default,60,39,45,35
+24,M16,Tactical Rifles,Primary,Level 10,45,35,50,36
+25,AUG,Tactical Rifles,Primary,Level 28,51,30,40,37
+26,DMR 14,Tactical Rifles,Primary,Level 49,55,45,47,31
+27,CARV.2,Tactical Rifles,Primary,Challenge,42,49,45,40
+28,Stoner 63,Light Machine Guns,Primary,Default,50,22,44,50
+29,RPD,Light Machine Guns,Primary,Level 22,47,35,42,46
+30,M60,Light Machine Guns,Primary,Level 46,54,23,38,45
+31,MG82,Light Machine Guns,Primary,Battle Pass Tier 15,41,32,38,55
+32,Pelington 703,Sniper Rifles,Primary,Default,64,43,50,18
+33,LW3-Tundra,Sniper Rifles,Primary,Level 25,67,36,53,24
+34,M82,Sniper Rifles,Primary,Level 55,70,33,40,23
+35,ZRG 20mm,Sniper Rifles,Primary,Challenge,74,30,45,20
+36,Swiss K31,Sniper Rifles,Primary,Battle Pass Tier 31,62,38,54,30
+37,1911,Pistols,Secondary,Default,40,38,37,24
+38,Magnum,Pistols,Secondary,Level 31,65,33,30,19
+39,Diamatti,Pistols,Secondary,Level 49,45,38,40,35
+40,AMP63,Pistols,Secondary,Challenge,49,40,33,30
+41,Marshal,Pistols,Secondary,Challenge,50,45,30,23
+42,Hauer 77,Shotgun,Secondary,Level 7,72,20,30,30
+43,Gallo SA12,Shotgun,Secondary,Level 34,67,18,25,33
+44,Streetsweeper,Shotgun,Secondary,Challenge,74,18,26,35
+45,.410 Ironhide,Shotgun,Secondary,Battle Pass,77,20,30,34
+46,Cigma 2,Launchers,Secondary,Default,90,15,49,35
+47,RPG-7,Launchers,Secondary,Level 40,95,20,40,25
+48,Knife,Melee,Secondary,Level 13,60,73,54,60
+49,Sledgehammer,Melee,Secondary,Challenge,59,53,66,60
+50,Wakizashi,Melee,Secondary,Challenge,60,66,53,60
+51,E-Tool,Melee,Secondary,Challenge,60,73,60,60
+52,Machete,Melee,Secondary,Challenge,60,66,70,60
+53,Baseball Bat,Melee,Secondary,Challenge,60,73,62,59
+54,Mace,Melee,Secondary,Challenge,60,63,58,60
+55,Cane,Melee,Secondary,Challenge,60,63,58,60
+56,Sai,Melee,Secondary,Challenge,45,60,54,54
+57,Battle Axe,Melee,Secondary,Challenge,60,62,66,60
+58,Hammer and Sickle,Melee,Secondary,Challenge,49,60,53,48
+59,Scythe,Melee,Secondary,Challenge,60,66,74,60
+60,M79,Melee,Secondary,Level 52,85,30,35,15
+61,R1 Shadowhunter,Melee,Secondary,Challenge,75,45,55,35
+62,Ballistic Knife,Melee,Secondary,Challenge,75,50,50,20
+63,Nail Gun,Melee,Secondary,Challenge,50,44,45,34
