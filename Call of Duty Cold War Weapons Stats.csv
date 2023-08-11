@@ -1,0 +1,65 @@
+﻿Name,Category,Type,Details,Unlocked Level,Magazine Size,Firepower %,Speed %,Accuracy %,Ammo %
+XM4,Assault Rifles,Primary,Full-auto assault rifle. Reliable damage with improved fire rate. Fair weapon control when sustaining fire.,Default,30 rounds,36,40,46,30
+AK-47,Assault Rifles,Primary,Full-auto assault rifle. high damage with a marginally slower fire rate. Excellent stopping power for mid-range encounters,Level 7,30 rounds,50,35,30,33
+ Krig 6,Assault Rifles,Primary,Full-auto assault rifle. Improved damage and accuracy. Excellent weapon control and visibility when sustaining fire,Level 16,30 rounds,46,40,50,43
+QBZ-83,Assault Rifles,Primary,Full-auto assault rifle. Superior mobility with improved handling speeds. Erratic initial recoil with less accurate hipfire spread,Level 31,30 rounds,42,50,40,35
+FFAR 1,Assault Rifles,Primary,Full-auto assault rifle. Fast fire rate with quick reloading speeds. Modest damage and slightly less ammo capacity,Level 40,25 rounds,38,43,35,40
+Groza,Assault Rifles,Primary,Fully-auto assault rifle. Excellent handling speeds with improved damage. Fast fire rate and fair damage range,Challenge,30 rounds,45,44,42,38
+FARA 83,Assault Rifles,Primary,Full-auto assault rifle. High fire rate and muzzle velocity provides reliable stopping power from long range. Slightly heavier recoil with slower handling speeds,Challenge,30 rounds,51,32,37,33
+C58,Assault Rifles,Primary,Full-auto assault rifle. High damage at close range with a slower fire rate. Fast bullet velocity and reliable recoil control with less ammo capacity,Battle Pass Tier 31,20 rounds,43,33,45,28
+EM2,Assault Rifles,Primary,Full-auto assault rifle. Well rounded Britch rifle with good firing control. Built in low-zoom optic improves accuracy. Slower fire rate with reliable range,Battle Pass,30 rounds,45,35,40,20
+Grav,Assault Rifles,Primary,Full-auto assault rifle. Fast firing rifle with improved range. Fastest bullet velocity in class with modest damage and moderate recoil,Battle Pass,35 rounds,47,40,38,35
+Vargo 52,Assault Rifles,Primary,Full-auto assault rifle. Good damage at mid-range with a fast fire rate. Improved muzzle velocity and reliable handling for steady firing control,Challenge,30 rounds,50,38,39,44
+MP5,Submachine Guns,Primary,Full-auto submachine gun. Fast fire rate with low recoil. Good visibility and control while firing.,Default,30 rounds,33,38,43,30
+Milano 821,Submachine Guns,Primary,Full-auto submachine gun. High damage with a slower fire rate and fair recoil. Improved handling speeds with more accurate hipfire spread.,Level 13,30 rounds,43,50,45,38
+AK-74u,Submachine Guns,Primary,Full-auto submachine gun. Improved damage with reliable weapon control. Utilizes 5.35mm ammo for superior bullet velocity.,Level 19,30 rounds,44,35,40,36
+KSP 45,Submachine Guns,Primary,3-round burst submachine gun. High damage with moderate range. Burst fire spread is less efficient at long-range.,Level 37,30 rounds,47,40,44,37
+Bullfrog,Submachine Guns,Primary,Full-auto submachine gun. Reliable damage with improved range. Large ammo pool and less accurate hipfire spread.,Level 43,50 rounds,34,47,42,49
+Mac-10,Submachine Guns,Primary,Full-auto submachine gun. Fastest fire rate in class with higher vertical recoil. Improved handling speeds with reduced damage,Challenge,32 rounds,39,46,34,45
+LC10,Submachine Guns,Primary,Full-auto submachine gun. Well rounded with excellent damage range and good accuracy. Moderate damage with an impressive muzzle velocity and a high fire rate.,Challenge,34 rounds,36,42,50,46
+PPSh-41,Submachine Guns,Primary,Full-auto submachine gun. Faster fire rate with a large bullet spread. Reliable damage range with less control when firing.,Battle Pass Tier 15,32 rounds,41,45,38,43
+OTs 9,Submachine Guns,Primary,Full-auto submachine gun. Impressive firepower at close range with good visibility while firing. Reliable recoil control with a smaller magazine size.,Challenge,30 rounds,41,43,46,25
+TEC-9,Submachine Guns,Primary,Semi-auto submachine gun. Improved accuracy with minimal recoil. High damage output with moderate range.,Battle Pass,30 rounds,35,46,46,28
+LAPA,Submachine Guns,Primary,Full-auto submachine gun. Lightweight prototype with reliable damage and good firing control. Improved handling and range with a slower fire rate.,Challenge,30 rounds,39,50,49,33
+UGR,Submachine Guns,Primary,Full-auto submachine gun. Underwater rifle modified for improved land performance. Fires 5.66mm steel darts with moderate bullet velocity.,Challenge,27 rounds,40,49,50,30
+Type 63,Tactical Rifles,Primary,Semi-auto tactical rifle. High damage and reliable accuracy at long range with modest ammo capacity. Fair visibility and control while firing,Default,25 rounds,60,39,45,35
+M16,Tactical Rifles,Primary,Burst fire tactical rifle. Excellent burst fire accuracy when aiming down sights. Good visibility while firing with a slightly pronounced delay between bursts,Level 10,30 rounds,45,35,50,36
+AUG,Tactical Rifles,Primary,Burst fire tactical rifle. High damage with moderate recoil and slower movement speeds when firing. Built in optic provides 1.5x magnification.,Level 28,30 rounds,51,30,40,37
+DMR 14,Tactical Rifles,Primary,Semi-auto tactical rifle. Increased fire rate with minimal recoil but less ammo. Maintains reliable damage over longer-range encounters.,Level 49,20 rounds,55,45,47,31
+CARV.2,Tactical Rifles,Primary,Burst fire tactical rifle. Moderate firepower with improved recoil control and a larger ammo pool. Effective at mid-to-long range.,Challenge,45 rounds,42,49,45,40
+Stoner 63,Light Machine Guns,Primary,Full-auto light machine gun. Improved fire rate with a large ammo capacity. Good recoil control and visibility when sustaining fire.,Default,75 rounds,50,22,44,50
+RPD,Light Machine Guns,Primary,Full-auto light machine gun. Reliable stopping power with superior handling and movement speeds.,Level 22,50 rounds,47,35,42,46
+M60,Light Machine Guns,Primary,Full-auto light machine gun. Consistant ammo capacity with heavy-grain rounds provides premium stopping power and bullet economy. Slower fire rate and handling speeds.,Level 46,75 rounds,54,23,38,45
+MG82,Light Machine Guns,Primary,Full-auto light machine gun. Highest fire rate in class with improved aiming speed. Moderate recoil and damage with increased ammo capacity.,Battle Pass Tier 15,100 rounds,41,32,38,55
+Pelington 703,Sniper Rifles,Primary,Bolt-action sniper rifle. Hand loaded with improved handling speeds and faster rechamber. 1-shot kill to the head or chest.,Default,5 rounds,64,43,50,18
+LW3-Tundra,Sniper Rifles,Primary,"Bolt-action sniper rifle. High damage with moderate sway. 1-shot kill to the head, chest, or shoulders.",Level 25,5 rounds,67,36,53,24
+M82,Sniper Rifles,Primary,"Semi-auto sniper rifle. Heavy recoil with slow handling and improved bullet velocity. 1-shot kill to the head, chest, or stomach.",Level 55,5 rounds,70,33,40,23
+ZRG 20mm,Sniper Rifles,Primary,Bolt-action sniper rifle. Slow rechamber with best 1-hit kill potential in class. Additional vehicle damage that increases with the size of the target.,Challenge,3 rounds,74,30,45,20
+Swiss K31,Sniper Rifles,Primary,Bolt-action sniper rifle. Improved accuracy with low recoil. Fast rechamber and aiming speed with a larger ammo capacity.,Battle Pass Tier 31,6 rounds,62,38,54,30
+1911,Pistols,Secondary,Semi-auto pistol. Good accuracy with a modest ammo capacity. High damage in close range encounters.,Default,8 rounds,40,38,37,24
+Magnum,Pistols,Secondary,Double action revolver. High damage with increased penetration and faster bullet velocity.,Level 31,6 rounds,65,33,30,19
+Diamatti,Pistols,Secondary,Burst fire pistol. Fast cyclic rate of fire with a short delay between bursts. Increased ammo capacity with improved damage range.,Level 49,15 rounds,45,38,40,35
+AMP63,Pistols,Secondary,Full-auto pistol. Fast fire rate with improved bullet velocity and moderate recoil. Reliable damage output at close range.,Challenge,15 rounds,49,40,33,30
+Marshal,Pistols,Secondary,Break action pistol. Hand loaded double barrel pistol fires 12 gauge shells. Excellent damage at close range with a 1-shot kill potential.,Challenge,15 rounds,50,45,30,23
+Hauer 77,Shotgun,Secondary,Pump-action shotgun. High damage with a possible 1-shot kill in close quarters. Hand loaded with moderate rechamber speed.,Level 7,5 rounds,72,20,30,30
+Gallo SA12,Shotgun,Secondary,Semi-auto shotgun. Reliable damage and pellet spread. Heavy recoil and low visibility when sustaining fire.,Level 34,7 rounds,67,18,25,33
+Streetsweeper,Shotgun,Secondary,Full-auto shotgun. Superior fire rate with reliable damage and the largest ammo pool in class. Hand loaded with slower reload speeds.,Challenge,12 rounds,74,18,26,35
+.410 Ironhide,Shotgun,Secondary,Lever-action shotgun. High damage at close range with an improved fire rate. Reliable 2-shot kill with longer 1-shot kill range when aiming down sights.,Battle Pass,6 rounds,77,20,30,34
+Cigma 2,Launchers,Secondary,Free-fire rocket launcher. Lock-on capability vs. enemy vehicles. Locked rockets travel faster to their targets and maneuver in flight.,Default,1 rounds,90,15,49,35
+RPG-7,Launchers,Secondary,"Free-fire rocket launcher. Increased blast radius with heavy damage to vehicles, equipment, and personnel. Additional rockets provided",Level 40,1 rounds,95,20,40,25
+Knife,Melee,Secondary,Lethal melee weapon. Military-issue combat knife with a straight-edge blade that kills enemies with a single deadly strike. Trusted by the U.S. Military since the early 40’s,Level 13,N/A,60,73,54,60
+Sledgehammer,Melee,Secondary,Distributes a large amount of force over a small area and repurposed to demolish your enemies instead of drywall.,Challenge,N/A,59,53,66,60
+Wakizashi,Melee,Secondary,"Famously known as the companion sword to the Samurai’s Katana. Traditionally forged using a folding steel technique. Light to wield, resilient to force, and durable to wear.",Challenge,N/A,60,66,53,60
+E-Tool,Melee,Secondary,Lightweight entrenching shovel effective in close-quarters combat. Offers enhanced mobility.,Challenge,N/A,60,73,60,60
+Machete,Melee,Secondary,Manufactured from a durable steel blade tempered to maximum toughness to resist chipping and breaking. Popular in many tropical countries as both a weapon and an agricultural tool.,Challenge,N/A,60,66,70,60
+Baseball Bat,Melee,Secondary,Lethal sporting equipment. Lightweight bat with a cork center. Swing for the fences to knock your enemies out of the park.,Challenge,N/A,60,73,62,59
+Mace,Melee,Secondary,"Two-handed melee weapon. Much more than a ceremonial symbol of authority. Forged ages ago for one purpose, the power of this mace persists.",Challenge,N/A,60,63,58,60
+Cane,Melee,Secondary,"Lethal walking cane. Where fashion meets function. Adorned with a sterling silver handle, this cane is easy to grip and deadly when swung.",Challenge,N/A,60,63,58,60
+Sai,Melee,Secondary,Dual wield melee. Famous for its use in Japanese martial art of Ninjutsu. Lightweight and versatile with fast attacks. 2-kits to kill from the front with 1-hit backstabs.,Challenge,N/A,45,60,54,54
+Battle Axe,Melee,Secondary,Two-handed melee weapon. Double bit axe with a straight wooden handle for powerful swings. Fell you foes and use them as kindling.,Challenge,N/A,60,62,66,60
+Hammer and Sickle,Melee,Secondary,Dual wield melee. A powerful union between industrial and agricultural tools. Demonstrate the strength of labor with close-range melee attacks.,Challenge,N/A,49,60,53,48
+Scythe,Melee,Secondary,Two-handed melee. Reap a bountiful harvest by cutting down all who stand in your path. Quick swinging with a wide arc for deadly efficiency.,Challenge,N/A,60,66,74,60
+M79,Melee,Secondary,Grenade Launcher. Fires a grenade projectile that explodes on impact. High damage with a significant blast radius.,Level 52,N/A,85,30,35,15
+R1 Shadowhunter,Melee,Secondary,Launches lethal bolt projectiles to silently eliminate enemies. Excellent hip fire accuracy with good handling. Bolts must be manually loaded.,Challenge,N/A,75,45,55,35
+Ballistic Knife,Melee,Secondary,Spring-action knife launcher. Developed in the late ’70’s by Soviet forces. Can be used to silently fire retrievable blades or as a melee weapon.,Challenge,N/A,75,50,50,20
+Nail Gun,Melee,Secondary,Full-auto nail gun. Slow firing power tool uses compressed air to launch fast moving projectiles. High damage at close range with fast handling speeds.,Challenge,N/A,50,44,45,34
